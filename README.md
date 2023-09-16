@@ -1,5 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D4E16AQHORmKqd8iXUA/profile-displaybackgroundimage-shrink_350_1400/0/1679937938891?e=1686182400&v=beta&t=9gxV3C1-AaKUrjqnJClONooDiU0CEivolP1ldlCAZeU)
-
 
 <h1 align="center">Hi 👋, I'm José Raimundo del Rio</h1>
 <h3 align="center">A passionate Full Stack Software Developer from Chile 🇨🇱</h3>
