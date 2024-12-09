@@ -4,9 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jrdelrio&label=Profile%20views&color=0e75b6&style=flat" alt="jrdelrio" /> </p>
 
-- 🔭 I’m currently working on [Compensa CH](https://www.compensach.com/)
+- 🏆 5 years in front-end developing.
+
+- 🔭 [chiliSites🌶️](https://www.chilisites.com/) co-founder and front-end developer.
 
 - 🌱 I’m currently learning **Django Framework**
+
+- ✏️ I’m currently studing **MBA in New Technologies** at [IOE Bussiness School](https://grupoioe.es/)
 
 - 👯 I’m looking to collaborate on **project that helps the environment 🌱 or helps me to learn new areas and tools 🔧**
 
@@ -14,9 +18,11 @@
 
 - 👨‍💻 All of my projects are available at [Github repos](https://github.com/jrdelrio?tab=repositories)
 
+- 👤 Check my [web profile](https://jrdelrio.github.io/jrdelrio-profile/)
+
 - 📝 I regularly write articles on [Medium](https://medium.com/@jrdelriodom)
 
-- 💬 Ask me about **ReactJs, Python, Flask, Javascript**
+- 💬 Ask me about **ReactJs, Python, Flask, Javascript, Responsive Design**
 
 - 📫 How to reach me **jrdelriodom@gmail.com**
 
@@ -67,7 +73,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" style="color: white"/>
+    <img src="[https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg](https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg)" alt="flask" width="40" height="40" style="color: white"/>
   </a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
