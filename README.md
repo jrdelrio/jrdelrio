@@ -1,20 +1,15 @@
 <h1 align="center">Hi 👋, I'm José Raimundo del Rio</h1>
 <h3 align="center">A passionate Full Stack Software Developer from Chile 🇨🇱</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jrdelrio&label=Profile%20views&color=0e75b6&style=flat" alt="jrdelrio" /> </p>
 
-- 🏆 5 years in front-end developing.
+- 🏆 6 years building full-stack web platforms, from pixel-perfect UI to backend logic and databases.
 
-- 🔭 [chiliSites🌶️](https://www.chilisites.com/) co-founder and front-end developer.
+- 🔭 Founder of [chiliSites 🌶️](https://www.chilisites.com/) — custom web platforms & digital marketing.
 
-- 🌱 I’m currently learning **Django Framework**
+- 🌱 Currently learning to coordinate AI agents for process automation.
 
-- ✏️ I’m currently studing **MBA in New Technologies** at [IOE Bussiness School](https://grupoioe.es/)
-
-- 👯 I’m looking to collaborate on **project that helps the environment 🌱 or helps me to learn new areas and tools 🔧**
-
-- 🤝 I’m looking for help with **mobile app development 📱**
+- 👯 Looking to collaborate on projects that give something back to the world 🌍, and on open source.
 
 - 👨‍💻 All of my projects are available at [Github repos](https://github.com/jrdelrio?tab=repositories)
 
@@ -22,11 +17,11 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@jrdelriodom)
 
-- 💬 Ask me about **ReactJs, Python, Flask, Javascript, Responsive Design**
+- 💬 Ask me about **Astro, Next.js, React, Django, Flask, Supabase, PostgreSQL**
 
-- 📫 How to reach me **jrdelriodom@gmail.com**
+- 📫 How to reach me **raimundo@chilisites.com**
 
-- ⚡ Fun fact: **I'm a singer 🎤 and a very good guitarist 🎸**
+- ⚡ Fun fact: **I'm a singer 🎤 and guitarist 🎸, I ride my bike 🚴, and I play piano 🎹**
 
 
 <!-- ### Blogs posts --> 
@@ -35,11 +30,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jose-raimundo-del-rio-domeyko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-raimundo-del-rio-domeyko/" height="30" width="40" /></a>
-<!--<a href="https://fb.com/jrdelriod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jrdelriod" height="30" width="40" /></a> -->
-<a href="https://instagram.com/raidelrio.music" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raidelrio.music" height="30" width="40" /></a>
-<a href="https://medium.com/@jrdelriodom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jrdelrio" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@raidelriomusic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@raidelriomusic" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jose-raimundo-del-rio-domeyko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-raimundo-del-rio-domeyko" height="30" width="40" /></a>
+<a href="https://medium.com/@jrdelriodom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jrdelriodom" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,48 +39,54 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/5dca329190fa53931f4cdab984acc668e149d3e5/svg/javascript.svg" alt="javascript" width="40" height="40"/>
   </a>
+  <a href="https://astro.build/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="astro" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="nextjs" width="40" height="40"/>
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://www.getbootstrap.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="__blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40" style="background-color: white; border-radius: 4px; padding: 2px;"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="[https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg](https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg)" alt="flask" width="40" height="40" style="color: white"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" style="background-color: white; border-radius: 4px; padding: 2px;"/>
   </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="supabase" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
-  
-  
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/vercel/000000" alt="vercel" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
 </p>
 
 <p align=center><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jrdelrio&show_icons=true&locale=en&layout=compact" alt="jrdelrio" style="display: block"/></p>
