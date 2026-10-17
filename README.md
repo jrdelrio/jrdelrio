@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Github repos](https://github.com/jrdelrio?tab=repositories)
 
-- 👤 Check my [web profile](https://jrdelrio.github.io/jrdelrio-profile/)
+- 👤 Check my [[web profile](https://jrdelrio.github.io/jrdelrio-profile/)](https://jrdelrio-profile.vercel.app/)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@jrdelriodom)
 
